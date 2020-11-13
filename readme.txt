@@ -1,236 +1,179 @@
-=== HubSpot - CRM, Email Marketing, Live Chat, Forms & Analytics ===
-Contributors: HubSpotDev, leadin
-License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl.html
-Tags: CRM, Email Marketing, Live Chat, Forms, Analytics, Popups, Newsletter
-Requires at least: 4.0
-Tested up to: 5.5.2
-Requires PHP: 5.6
-Stable tag: 7.47.0
+=== Facebook for WooCommerce ===
+Contributors: facebook, automattic, woothemes
+Tags: facebook, shop, catalog, advertise, pixel, product
+Requires at least: 4.4
+Tested up to: 5.5.3
+Stable tag: 2.1.4
+Requires PHP: 5.6 or greater
+MySQL: 5.6 or greater
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Capture, organize and engage web visitors with free forms, live chat, CRM (contact management), email marketing, and analytics. Easy to use, no coding.
+Get the Official Facebook for WooCommerce plugin for two powerful ways to help grow your business, including an ads extension and shops tab for your page.
 
 == Description ==
 
-THE MOST POWERFUL & EASY TO USE CONTACT MANAGEMENT (CRM), EMAIL MARKETING, LIVE CHAT, FORMS & ANALYTICS PLUGIN
+This is the official Facebook for WooCommerce plugin that connects your WooCommerce website to Facebook. With this plugin, you can install the Facebook pixel, upload your online store catalog, and create a shop on your Facebook page, enabling you to easily run dynamic ads.
 
-<a href="https://www.hubspot.com/products/wordpress?utm_source=wordpress-plugin-listing&utm_campaign=wordpress&utm_medium=marketplaces" target="_blank">HubSpot</a> enables you to grow your business better. It helps turn visitors into leads, nurture them into customers, and measure your business growth.
+Marketing on Facebook helps your business build lasting relationships with people, find new customers, and increase sales for your online store. With this Facebook ad extension, reaching the people who matter most to your business is simple. This extension will track the results of your advertising across devices. It will also help you:
 
-With HubSpot’s free plugin you can easily:
-
-- Engage visitors with <a href="https://www.hubspot.com/products/crm/live-chat?utm_source=wordpress-plugin-listing&utm_campaign=wordpress&utm_medium=marketplaces" target="_blank">live chat and chatbots</a>, and convert leads with forms & popups.
-- Build beautiful, responsive <a href="https://www.hubspot.com/products/marketing/email?utm_source=wordpress-plugin-listing&utm_campaign=wordpress&utm_medium=marketplaces" target="_blank">email newsletters</a> inside WordPress, and nurture your leads with marketing automation campaigns.
-- Manage your entire contact database with HubSpot’s free <a href="https://www.hubspot.com/products/crm?utm_source=wordpress-plugin-listing&utm_campaign=wordpress&utm_medium=marketplaces" target="_blank">CRM</a>, and group contacts together with the built-in list builder.
-- Measure your business growth in real-time with easy-to-understand analytics dashboards.
-
-What’s included in HubSpot’s free WordPress plugin:
-
-**CRM & CONTACT MANAGEMENT PLATFORM**
-
-Your website forms will automatically sync with your HubSpot CRM so you can easily manage your contacts, segment them into lists, and see every interaction they've had with your website. This plugin creates & updates each contact record with a unified timeline of the contact’s page views, live chat conversations, form submissions, and more.
-
-**EMAIL NEWSLETTER & MARKETING AUTOMATION**
-
-Build beautiful, responsive newsletters to send to your contact database with HubSpot’s easy-to-use, <a href="https://www.hubspot.com/products/marketing/email?utm_source=wordpress-plugin-listing&utm_campaign=wordpress&utm_medium=marketplaces" target="_blank">drag and drop email builder</a>. Send an email automation anytime someone fills out a form or engages with your live chat & chatbots.
-
-Don’t want to have to design emails yourself? HubSpot comes with 20+ pre-designed email templates so all you have to do is add your content and press send.
-
-With HubSpot's email marketing software, you’re able to personalize your messaging and start tailoring content for each of your subscribers. Plus, with A/B testing and email tracking, you can go a step further and improve the open rate and click rate of each campaign.
-
-All emails are automatically logged in your customer relationship management (CRM) software and include reporting for opens and clicks so you can measure each email's engagement.
-
-**FORMS & POPUPS**
-
-Create beautiful <a href="https://www.hubspot.com/products/marketing/forms?utm_source=wordpress-plugin-listing&utm_campaign=wordpress&utm_medium=marketplaces" target="_blank">forms and popups</a> on your website in minutes using the intuitive drag and drop builder. Choose which pages you want your popups displayed on with HubSpot’s advanced filtering based on your visitors’ behaviors.
-
-Rather stick with your existing forms and popup plugin? That’s fine too! HubSpot integrates with most WordPress form builders, form creators, and popup builders out-of-the-box so you don’t have to worry about a thing.
-
-HubSpot is a dynamic form builder and can be used to create nearly any type of form — such as an announcement popup, banner bar, conditional logic form, contact form, custom form, donation form, email form, exit intent popup form, event form, feedback form, mobile popup, newsletter form, order form, payment form, popup form, quiz form, quote form, signature form, signup form, star rating form, sticky bar, survey popup, web form, and more!
-
-**LIVE CHAT & CHATBOTS**
-
-Add free <a href="https://www.hubspot.com/products/crm/live-chat?utm_source=wordpress-plugin-listing&utm_campaign=wordpress&utm_medium=marketplaces" target="_blank">live chat</a> to your website and easily engage & help your site visitors. Add 24/7 <a href="https://www.hubspot.com/products/crm/live-chat?utm_source=wordpress-plugin-listing&utm_campaign=wordpress&utm_medium=marketplaces" target="_blank">chatbots</a> to your website to help automate lead capture, lead generation, lead management and provide live support. Now you can help your visitors while you sleep — the power of WordPress live chat!!
-
-**BUILT-IN ANALYTICS & DASHBOARDS**
-
-Built-in marketing analytics (email analytics, traffic analytics, and website analytics) make it easy to understand which sales and marketing actions are driving the most success… and which ones you need to fix. Quickly see how your forms, popups, live chat & chatbots, email marketing, and sales follow-ups are helping grow your business.
-
-Why install analytics from another app when you can get built-in WordPress analytics? With HubSpot, you can view a unified view of your site's performance in an easy-to-understand analytics dashboard — all without leaving WordPress. Dashboards are customizable, so you can surface the most relevant information to make data-driven decisions for your unique business.
-
-**SEAMLESS INTEGRATIONS**
-
-Happy with the tools you’re using? Now you can easily integrate HubSpot with over <a href="https://ecosystem.hubspot.com/marketplace/apps?utm_source=wordpress-plugin-listing&utm_campaign=wordpress&utm_medium=marketplaces" target="_blank">400 native integrations</a> including:
-- Analytics / Advertising / Social Media Software: Adroll, Facebook Ads, Facebook Messenger, Google Ads, Google Analytics, Hotjar, Instagram Ads, Linkedin Ads, Twitter, WhatsApp, YouTube
-- Communications / Design / Integrations: Canva, Gutenberg Blocks, HelloSign, Integromat, Slack, Twilio, Vidyard, Zoom
-- CRM / Email Marketing / Marketing Automation Software: Active Campaign, Aweber, Campaign Monitor, Constant Contact, Drip, Gmail, Hustle, Mailchimp, Ontraport, Outlook, Salesforce, Sendinblue, WP Fusion, Zoho
-- E-commerce / Online Store / Recurring Payment / Payment Processing: BigCommerce, Shopify, Stripe, WooCommerce, YITH
-- Events / Meeting Scheduling Software: Calendly, Eventbrite, The Events Calendar
-- Forms / Landing Page Builders / CRO: Caldera Forms, Contact Form 7, Elementor, Formidable Forms, Forminator, Gravity Forms, Instapage, JotForm, Kali Forms, MailOptIn, Ninja Forms, OptInMonster, Sumo, Survey Monkey, Typeform, Unbounce, WPForms
-- Live Chat / Customer Support Software: Drift, Front, Help Scout, Intercom, LiveChat, Pure Chat, Zendesk
-- Productivity / Project Management Software: Asana, Jira
-
-HubSpot also works great with Zapier and PieSync, so you can easily connect nearly any tool together.
-
-**WHAT PEOPLE ARE SAYING ABOUT HUBSPOT - CRM, EMAIL MARKETING, LIVE CHAT, FORMS & ANALYTICS?**
-
-“HubSpot was a big factor in helping us scale WP Buffs to $1M in revenue. Their plugin and sales CRM made our sales process so much more professional and kept us fully organized as we grew from 1 salesperson to 4. Plus, the reporting dashboards allow me to know where our sales game is strong and where we can still improve with just a few clicks. Needless to say, I'm all in on HubSpot.” – **Joe Howard, Founder & CEO, WP Buffs**
-
-“HubSpot educates marketers beyond just the anonymous web analytics they get from Google Analytics. Instead, it digs down to individual users.” – **Michael Shoup, Founder / CEO, 12South Marketing**
-
-“HubSpot dramatically cuts down the time I spend on marketing. We used to spend tons of time generating very few inbound leads, but those numbers have gone through the roof with minimal effort.” – **Brian Ruhlmann, Director of Sales & Marketing, AdmitHub**
+* Maximize your campaign performance. By setting up the Facebook pixel and building your audience, you will optimize your ads for people likely to buy your products, and reach people with relevant ads on Facebook after they’ve visited your website.
+* Find more customers. Connecting your product catalog automatically creates carousel ads that showcase the products you sell and attract more shoppers to your website.
+* Generate sales among your website visitors. When you set up the Facebook pixel and connect your product catalog, you can use dynamic ads to reach shoppers when they’re on Facebook with ads for the products they viewed on your website. This will be included in a future release of Facebook for WooCommerce.
 
 == Installation ==
 
-= Search =
+Visit the Facebook Help Center [here](https://www.facebook.com/business/help/900699293402826).
 
-The easiest way to install this plugin is to use the WordPress Admin interface.
+== Support ==
 
-- Go to your admin dashboard
-- Find the "Plugins" menu
-- Click on "Add New"
-- Search for "HubSpot"
-- Click "Install Now"
-- Go to your "Plugins" menu
-- Click "Activate" on the HubSpot All-In-One Marketing - Forms, Popups, Live Chat plugin
-- Log in or sign up for a HubSpot account
+If you believe you have found a security vulnerability on Facebook, we encourage you to let us know right away. We investigate all legitimate reports and do our best to quickly fix the problem. Before reporting, please review [this page](https://www.facebook.com/whitehat), which includes our responsible disclosure policy and reward guideline. You can submit bugs [here](https://github.com/facebookincubator/facebook-for-woocommerce/issues) or contact advertising support [here](https://www.facebook.com/business/help/900699293402826).
 
-Your WordPress site and HubSpot account will be connected and you're ready to get started with HubSpot All-In-One Marketing - Forms, Popups, Live Chat.
+When opening a bug on GitHub, please give us as many details as possible.
 
-= Upload =
-
-1. Upload the 'leadin' folder to the '/wp-content/plugins/' directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-
-Having trouble? Check out our <a href="https://knowledge.hubspot.com/articles/kcs_article/integrations/how-can-i-install-the-hubspot-tracking-code-for-wordpress?utm_source=wordpress-plugin-listing&utm_campaign=wordpress&utm_medium=marketplaces" target="_blank">help documentation</a>
-
-== Frequently Asked Questions ==
-
-= Requirements =
-
-- Your website or blog must be using WordPress.org version 3.7 or higher on your server. We recommend the latest version.
-- The plugin cannot be installed on WordPress.com sites, as they do not allow you to add plugins or Javascript.
-- The wp_footer function must be included in your WordPress theme’s footer file (footer.php).
-- This function is required for our Javascript snippet to be installed on every page of your site.
-- You must be a WordPress admin to be able to install plugins for your site. If you are not the admin, you can forward these instructions to the person who manages your WordPress install.
-
-= What does the plugin do? =
-
-HubSpot's WordPress plugin allows you to use HubSpot email marketing, CRM, forms, popups, and live chat on your WordPress website. This plugin gives you all the tools you need to grow your business and delight your contacts and customers.
-
-= What is HubSpot? =
-
-<a href="https://hubspot.com/?utm_source=wordpress-plugin-listing&utm_campaign=wordpress&utm_medium=marketplaces" target="_blank">HubSpot</a> is an all-in-one growth platform that provides a free CRM, marketing, sales, and customer service products to help you grow your business.
-
-= Who should use HubSpot? =
-
-HubSpot is perfect for agencies, business owners (including small businesses and ecommerce companies), bloggers, designers, or anyone with a WordPress website that wants to use a seamless CRM plugin with built-in marketing tools. 100,000+ websites in 100+ countries already use HubSpot to grow their businesses.
-
-= Are coding skills needed to use the HubSpot WordPress plugin? =
-
-Not at all! HubSpot’s WordPress plugin is easy to download and starts working seamlessly with your WordPress site right away. You can take advantage of our CRM, live chat, email marketing, forms, and much more without the need to code.
-
-= What is available for free with HubSpot? =
-
-HubSpot’s WordPress plugin is free to use with forms, contact management, email marketing, and more.
-
-HubSpot also has paid tiers available for those who want more advanced functionality like blogging, landing pages, search engine optimization (SEO), team email, retargeting, lead scoring, bots, email scheduling, NPS surveys, calls-to-action (CTAs), knowledge base, and more. If you'd like a complete view of the features offered in HubSpot's free and paid tiers, view our <a href="https://hubspot.com/pricing?utm_source=wordpress-plugin-listing&utm_campaign=wordpress&utm_medium=marketplaces" target="_blank">pricing page</a>.
-
-Our CRM for Wordpress is powered by HubSpot’s <a href="https://www.hubspot.com/products/crm" target="_blank">free forever CRM</a>.
-
-= Do I need to install a Wordpress SMTP plugin to use HubSpot's email feature? =
-
-No, there’s no need to install an additional mail SMTP plugin.
-
-Unlike other Wordpress form plugins and email plugins that send messages using a PHP mail function, HubSpot is a stand-alone email marketing software. You can <a href="https://knowledge.hubspot.com/email-notifications/how-can-i-find-my-email-servers-imap-and-smtp-information" target="_blank">define your IMAP and SMTP</a> from your existing mail service (Gmail, Outlook, Yahoo) and stop worrying about email deliverability from within WordPress.
-
-= What types of forms and popups can I build with HubSpot? =
-
-Here are some examples of the types of forms and popups you can create with HubSpot:
-
--advanced forms
--announcement popup
--appointment form
--banner bar
--calculator form
--conditional form
--conditional logic form
--contact button form
--contact form popup
--contact forms
--coupon popup
--custom form
--custom forms
--custom popup
--donation form
--email form
--email forms
--email submit form
--event form
--exit intent popup forms
--exit popup
--feedback form
--file upload form
--floating bar popup
--inline signup form
--lightbox popup
--mobile popup
--multi page form
--newsletter form
--newsletter popup
--order form
--payment form
--pdf form
--popup form
--quiz form
--quote form
--quote request form
--registration popup
--scroll trigger popup
--signature form
--signup form
--slide-in popup
--slide-in scroll popup
--star rating form
--sticky bar
--sticky popup
--subscription form
--survey popup
--targeted popup
--time on site popup
--upload form
--user registration form
--web contact form
--web form
--welcome mat popup
--woocommerce popup
-
-Rather use your existing form tool? HubSpot integrates with most WordPress form builders and popup builders.
-
-= Does HubSpot support ecommerce stores? =
-
-The HubSpot WordPress plugin is great for many types of businesses including e-commerce. For WooCommerce shop owners, consider the <a href="https://wordpress.org/plugins/makewebbetter-hubspot-for-woocommerce/" target="_blank">HubSpot for WooCommerce plugin</a> for even added functionality in your shop.
-
-= My question is not listed. =
-
-Please visit the <a href="https://community.hubspot.com/?utm_source=wordpress-plugin-listing&utm_campaign=wordpress&utm_medium=marketplaces" target="_blank">HubSpot Community</a> for more detailed documentation and support. Thank you!
-
-== Screenshots ==
-
-1. Measure impact with reports.
-2. Organize, track, and nurture your leads in your free HubSpot CRM.
-3. Your website forms will automatically sync with your HubSpot CRM.
-4. Nurture and convert leads with lists and email.
-5. Send contacts a beautiful, effective and personalized email.
-6. Add live chat to your website and easily engage & help your site visitors.
-7. Add 24/7 chatbots to your website to help automate lead capture and support.
-8. Create beautiful forms and popups on your website in minutes using the intuitive drag and drop builder.
+* Symptoms of your problem
+* Screenshot, if possible
+* Your Facebook page URL
+* Your website URL
+* Current version of Facebook-for-WooCommerce, WooCommerce, Wordpress, PHP
 
 == Changelog ==
 
-<a href="http://plugins.svn.wordpress.org/leadin/trunk/changelog.txt" target="_blank">Full changelog here</a>
+= 2020.11.04 - version 2.1.4
+ * Fix - Ensure product variant attributes are correctly handled when checking for enhanced attribute values.
 
-- Current version: 7.47.0
-- Current version release: 2020-11-02
+= 2020.10.29 - version 2.1.3 =
+ * Fix - Prevent error triggered while trying to refund orders
 
-= 7.47.0 (2020.11.02)
-- Include the forms loader script only once in the page when a form is added.
+= 2020.10.28 - version 2.1.2 =
+ * Tweak - Default variation selection will be synced to Facebook if the default product variation is already synced
+ * Fix - Trigger a pixel Search event for product search requests with a single result (works for logged in users or visitors with an active WooCommerce session)
+ * Fix - Prevent a JavaScript error on the Add New Product page when Facebook for WooCommerce is not connected to Facebook
+
+= 2020.10.27 - version 2.1.1 =
+ * Fix - Adjust code syntax that may have issued errors in installations running PHP lower than 7.3
+
+= 2020.10.26 - version 2.1.0 =
+ * Feature - Set Google category at the shop level for the Facebook catalog sync (on the product sync tab).
+ * Feature - Set Google category for the Facebook catalog sync at the WooCommerce category level.
+ * Feature - Set Google category for the Facebook catalog sync at the product level.
+ * Feature - Set Enhanced Catalog category specific fields for the Facebook catalog sync at the WooCommerce category level.
+ * Feature - Set Enhanced Catalog category specific fields for the Facebook catalog sync at the product level.
+
+= 2020.10.12 - version 2.0.5 =
+ * Tweak - Update product availability when stock changes in the store
+ * Fix - Don't prevent variation products from being updated when they're set to not sync with Facebook but have their categories excluded from syncing
+ * Fix - Prevent an error during the feed generation when variable products are still using deleted terms
+
+= 2020.10.08 - version 2.0.4 =
+ * Fix - Fix SQL errors triggered while trying to remove duplicate visibility meta entries from postmeta table
+
+= 2020.10.02 - version 2.0.3 =
+ * Tweak - Pixel events now can include advanced matching information
+ * Fix - Send contents parameter for ViewContent event using the correct format
+ * Fix - Remove duplicate visibility meta entries from postmeta table
+
+= 2020.09.25 - version 2.0.2 =
+ * Tweak - Allow simple and variable products with zero/empty price to sync to Facebook
+ * Tweak - Use the bundle price for Product Bundles products with individually priced items
+ * Fix - Update connection parameters to use an array to pass the Messenger domain
+ * Fix - Ensure out-of-stock products are marked as such in Facebook when the feed file replacement is run
+ * Fix - Address a potential error when connecting from a site whose title contains special characters
+
+= 2020.08.17 - version 2.0.1 =
+ * Fix - Ensure the configured business name is never empty when connecting to Facebook
+
+= 2020.07.30 - version 2.0.0 =
+ * Tweak - Show Facebook options for virtual products and variations
+ * Tweak - Hide "Sync and show" option for virtual products and variations
+ * Tweak - On upgrade, automatically set sync-enabled and visible virtual products and virtual variations to Sync and hide
+ * Tweak - Allow to bulk enable sync for virtual products, but automatically set them to Sync and hide
+ * Fix - Use the plugin version instead of a timestamp as the version number for enqueued scripts and stylesheets
+ * Fix - Use the short description of the parent product for product variations that don't have a description or Facebook description
+ * Fix - Prevent an error when YITH Booking and Appointment for WooCommerce plugin is active
+
+= 2020.06.04 - version 1.11.4 =
+ * Fix - Do not sync variations for draft variable products created by duplicating products
+ * Fix - Do not log an error when the product is null on add to cart redirect
+
+= 2020.05.20 - version 1.11.3 =
+ * Tweak - Write product feed to a temporary file and rename it when done, to prevent Facebook from downloading an incomplete feed file
+ * Tweak - Hide Facebook options for virtual products and virtual variations
+ * Tweak - Do not allow merchant to bulk enable sync for virtual products
+ * Tweak - On upgrade, automatically disable sync for virtual products and virtual variations
+ * Tweak - When using checkboxes for tags, make sure the modal is displayed when trying to enable sync for a product with an excluded tag
+ * Fix - Prevent tracking of a duplicated purchase event in some circumstances such as when the customer reloads the "Thank You" page after completing an order
+ * Fix - Fix a JavaScript issue that was causing a notice to be displayed when bulk editing product variations
+
+= 2020.05.04 - version 1.11.2 =
+ * Misc - Add support for WooCommerce 4.1
+
+= 2020.04.27 - version 1.11.1 =
+ * Fix - Fix integration with WPML
+
+= 2020.04.23 - version 1.11.0 =
+ * Tweak - Sync products using Facebook's feed pull method
+ * Fix - When filtering products by sync enabled status, make sure variable products with sync disabled status do not show up in results
+ * Fix - Make sure that the Facebook sync enabled and catalog visibility columns are properly displayed on narrow screen sizes on some browsers
+ * Fix - Do not show a confirmation modal when saving a variable product that was previously synced but belongs now to a term excluded from sync
+ * Fix - Ensure variable products excluded from sync are not synced in Facebook
+ * Fix - Trigger a modal prompt when attempting to enable sync for variations of a variable product that belongs to a term excluded from sync
+ * Fix - Address potential PHP warnings in the product feed with non-standard product variations introduced by third party plugins
+ * Fix - Fix a JavaScript error triggered on the settings page while trying to excluded terms from sync
+ * Fix - Fix a JavaScript error triggered when saving a product and using checkboxes for tags
+
+= 2020.03.17 - version 1.10.2 =
+ * Tweak - Add a setting to easily enable debug logging
+ * Tweak - Allow third party plugins and themes to track an add-to-cart event on added_to_cart JS event
+ * Tweak - When excluding a product term from syncing in the plugin settings page, offer an option to hide excluded synced products from Facebook
+ * Tweak - When excluding product terms from syncing in the plugin settings page, and settings are saved, exclude corresponding products from sync
+ * Tweak - Improve error messages shown when a problem occurs during products sync
+ * Tweak - Log Graph API communication if logging is enabled
+ * Fix - When excluding a product term from syncing in the plugin settings page, ensure a modal opens to warn about possible conflicts with already synced products
+ * Fix - Messenger settings fields will correctly reflect the values selected during initial setup
+ * Fix - Fix a bug that caused newly added gallery images not to be synced immediately after they were added
+ * Fix - Fix a bug that prevented gallery images from being removed from products on Facebook
+ * Fix - Fix AddToCart Pixel event tracking when adding products from archive with AJAX and redirect to cart enabled
+ * Fix - Fix undefined index and undefined property notices.
+ * Dev - Make Pixel script attributes and event parameters filterable
+
+= 2020.03.10 - version 1.10.1 =
+ * Fix - Prevent Fatal error during the upgrade routine introduced in version 1.10.0
+ * Fix - Only load the admin settings JavaScript on the Facebook settings page to prevent conflicts with other scripts
+ * Misc - Add support for WooCommerce 4.0
+
+= 2020.03.03 - version 1.10.0 =
+ * Feature - Exclude specific products, variations, product categories, and product tags from syncing to Facebook
+ * Feature - Add Facebook product settings like price and description to variations
+ * Feature - Revamped settings screen with on-site control over pixel, product sync, and Messenger behavior
+ * Tweak - Use Action Scheduler for the daily forced re-sync, if enabled
+ * Fix - Improve pixel tracking accuracy for add-to-cart events
+ * Misc - Add the SkyVerge plugin framework as the plugin base
+ * Misc - Require WooCommerce 3.5 and above
+
+= 1.9.15 - 2019-06-27 =
+* CSRF handling for Ajax calls like ajax_woo_infobanner_post_click, ajax_woo_infobanner_post_xout, ajax_fb_toggle_visibility
+* use phpcs to adhere to WP coding standards
+* Minor UI changes on the iFrame
+
+= 1.9.14 - 2019-06-20 =
+* Revisit CSRF security issue
+* Remove rest controller which is not used
+* Tested installation in wordpress 5.2.2, WooCommerce 3.64, php 5.6/7.3 with browser Chrome v75/Safari v12.1/Firefox v67.
+
+= 1.9.13 - 2019-06-18 =
+* Fix security issue
+* Add more contributors to the plugin
+
+= 1.9.12 - 2019-05-2 =
+* Remove dead code which causes exception (Issue 975)
+
+= 1.9.11 - 2019-02-26 =
+* changing contributor to facebook from facebook4woocommerce, so that
+  woo plugin will be shown under
+  https://profiles.wordpress.org/facebook/#content-plugins
+* adding changelog in readme.txt so that notifications will be sent for
+  updates and changelog will be shown under
+  https://wordpress.org/plugins/facebook-for-woocommerce/#developers
+* removing debug flags notice under facebook-for-woocommerce.php so that
+  developers will be able to debug with debug logs
